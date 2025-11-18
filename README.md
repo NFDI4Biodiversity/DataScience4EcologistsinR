@@ -8,3 +8,15 @@ Below you find the code used in the first 15 videos, and allows to follow along 
 * Henrich, J. (2023). Code for Data Science 4 Ecologists in R: The Linear Model [R]. GitHub. https://github.com/jonaden94/TheLinearModel
 
 For any questions regarding the tutorials, or for details on available training material and upcoming workshops, visit https://www.nfdi4biodiversity.org/en/training or contact our [helpdesk](https://nfdi4biodiversity.org/en/contact/).
+
+## Tidy Data
+
+![Playlist tidy data (4 parts)](https://www.youtube.com/playlist?list=PL06Unzn1hDrjw4nOQk7ZfZmZ8vJ48aDy_)
+
+## Linear Models
+
+![Playlist linear models (11 parts)](https://www.youtube.com/playlist?list=PL06Unzn1hDrizkhhD0L9nROFnfqxtBVwY)
+
+## Polynomial Regression Analysis
+
+![Playlist polynomial regression analysis (3 parts)](https://youtube.com/playlist?list=PL06Unzn1hDrjsxYvyGOWImRvawEFajrwL)
